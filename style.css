@@ -1,7 +1,11 @@
-body {
+Main {
     background-color: white;
+    color:black;
   }
-h1{
-  background-color: black;
+header{
+  background-color:black;
   color:white;
+}
+footer{
+  background-color: dimgray;
 }
