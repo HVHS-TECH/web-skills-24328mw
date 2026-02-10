@@ -2,7 +2,6 @@ Main {
     background-color: white;
     color:black;
     padding-left: 4px;
-    padding-right: 100px;
   }
 header{
   background-color:black;
@@ -12,4 +11,5 @@ header{
 footer{
   background-color: dimgray;
   padding-left: 4px;
+  padding-right: 10px;
 }
