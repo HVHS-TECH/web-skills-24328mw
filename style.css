@@ -10,8 +10,8 @@ header{
 }
 footer{
   background-color: dimgray;
-  padding-left: 4px;
-  padding-right: 100px;
+  padding: 10px;
+  margin: 10px;
 }
 nav{
   margin: 4px;
