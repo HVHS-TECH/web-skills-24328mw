@@ -17,13 +17,11 @@ footer{
 }
 nav{
   margin: 4px;
+    margin: 10px;
+  color: white;
+  background-color: black;
 }
 #yellow{
   color:burlywood;
   background-color:darkgoldenrod;
-}
-a{
-  margin: 10px;
-  color: white;
-  background-color: black;
 }
