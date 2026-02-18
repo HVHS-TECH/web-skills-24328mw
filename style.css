@@ -39,3 +39,8 @@ nav{
 body{
   background-color: lightgray;
 }
+.navbar{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
