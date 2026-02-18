@@ -5,3 +5,14 @@ h1{
     background-color:lightgreen;
     color:darkgreen;
 }
+nav{
+    margin-left: 10px;
+    background-color: black;  
+    padding-top: 0px;
+    padding-left: 10px;
+  }
+  
+   a{color: white;
+    margin: 20px;
+    font-size: 30px;
+  }
