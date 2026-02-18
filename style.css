@@ -1,5 +1,4 @@
 Main {
-    background-color: lightgray;
     color:black;
     padding-left: 4px;
     font: sans-serif;
@@ -36,4 +35,7 @@ nav{
 }
 #yellow{
   color: yellow;
+}
+body{
+  background-color: lightgray;
 }
