@@ -18,10 +18,11 @@ footer{
 nav{
   margin: 4px;
     margin: 10px;
-  color: white;
-  background-color: black;
+ 
 }
 #yellow{
   color:burlywood;
   background-color:darkgoldenrod;
 }
+ a{color: white;
+  background-color: black;}
