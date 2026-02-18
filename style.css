@@ -16,12 +16,12 @@ footer{
   border: 4px solid black;
 }
 nav{
-  margin: 4px;
+  margin: 100px;
   background-color: black;  
 }
 
  a{color: white;
-  margin: 10px;
+  margin: 100px;
 }
 #blue{
   color: blue;
