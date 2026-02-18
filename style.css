@@ -22,11 +22,11 @@ nav{
   background-color: black;  
   padding-top: 0px;
   padding-left: 10px;
-  font: 20px;
 }
 
  a{color: white;
   margin: 10px;
+  font-size: 20px;
 }
 #blue{
   color: blue;
