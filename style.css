@@ -9,6 +9,7 @@ header{
   color:white;
   padding-left: 10px;
   margin-left: 10px;
+  padding-top: 0px;
 }
 footer{
   background-color: dimgray;
@@ -19,7 +20,7 @@ footer{
 nav{
   margin-left: 10px;
   background-color: black;  
-  margin-top: 0px;
+  padding-top: 0px;
   padding-left: 10px;
 }
 
