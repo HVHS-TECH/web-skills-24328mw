@@ -78,7 +78,3 @@ body{
 .drpdwn:hover .drpdwncntnt{
   display: block;
 }
-#active a{
-  background-color: white;
-  color: black;
-}
