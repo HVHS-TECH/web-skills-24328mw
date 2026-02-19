@@ -45,6 +45,10 @@ body{
 }
 .navgnbar{
   float: left;
+  border-right: 1px solid white;
+}
+.navgnbar :last-child{
+  border-right: none;
 }
 .navgnbar a, .dropdown{
   display: block;
