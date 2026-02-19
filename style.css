@@ -61,7 +61,7 @@ body{
   display: none;
   position: absolute;
   background-color: darkgrey;
-  min-width: 200px;
+  min-width: 20px;
   z-index: 1;
 }
 .drpdwncntnt a{
