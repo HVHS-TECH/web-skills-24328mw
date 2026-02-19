@@ -41,6 +41,7 @@ body{
   padding: 0;
   position: fixed;
   top: 0;
+  background-color: black;
 }
 .navgnbar{
   float: left;
@@ -52,4 +53,21 @@ body{
   padding: 20px;
   text-decoration: none;
   font-size: 30px;
+}
+.drpdwn{
+  display: inline-block;
+}
+.drpdwncntnt{
+  display: none;
+  position: absolute;
+  background-color: darkgrey;
+  min-width: 200px;
+  z-index: 1;
+}
+.drpdwncntnt a{
+  color: black;
+  padding: 10px 20px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
 }
