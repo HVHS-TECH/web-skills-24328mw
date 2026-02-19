@@ -64,12 +64,12 @@ body{
 .drpdwncntnt{
   display: none;
   position: absolute;
-  background-color: darkgrey;
+  background-color:rgb(71, 71, 71);
   min-width: 20px;
   z-index: 1;
 }
 .drpdwncntnt a{
-  color: black;
+  color: white;
   padding: 10px 20px;
   text-decoration: none;
   display: block;
