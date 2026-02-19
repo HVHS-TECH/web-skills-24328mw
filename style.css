@@ -46,7 +46,7 @@ body{
 .navgnbar{
   float: left;
 }
-.navgnbar a{
+.navgnbar a, .dropdown{
   display: block;
   color: white;
   text-align: center;
