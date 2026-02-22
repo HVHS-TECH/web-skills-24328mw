@@ -5,7 +5,9 @@ Main {
 header{
   background-color:dimgrey;
   color:white;
+  padding-left: 10px;
   margin-left: 10px;
+  padding-top: 0px;
   margin-top: 80px;
   border: 2px solid black;
 }
