@@ -77,8 +77,10 @@ body{
 }
 .drpdwn:hover .drpdwncntnt{
   display: block;
-  background-color: rgb(53, 53, 53);
 }
 .navgnbar:hover{
+  background-color: rgb(53, 53, 53);
+}
+.drpdwn:hover{
   background-color: rgb(53, 53, 53);
 }
