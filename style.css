@@ -41,7 +41,7 @@ body{
   padding: 0;
   position: fixed;
   top: 0;
-  background-color: black;
+  background-color: rgb(37, 37, 37);
 }
 .navgnbar{
   float: left;
@@ -88,6 +88,6 @@ body{
   background-color: rgb(99, 99, 99);
 }
 #active {
-  background-color:rgb(39, 39, 39);
+  background-color:rgb(0, 0, 0);
   color:white;
 }
