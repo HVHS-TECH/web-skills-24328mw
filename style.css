@@ -88,6 +88,6 @@ body{
   background-color: rgb(99, 99, 99);
 }
 #active {
-  background-color:darkgray;
-  color: black;
+  background-color:rgb(26, 26, 26);
+  color:white;
 }
