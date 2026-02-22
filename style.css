@@ -46,7 +46,6 @@ body{
 .navgnbar{
   float: left;
   border-right: 1px solid white;
-  padding-left: 50px;
 }
 .navgnbar :last-child{
   border-right: none;
