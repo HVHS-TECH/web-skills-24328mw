@@ -5,10 +5,9 @@ Main {
 header{
   background-color:dimgrey;
   color:white;
-  padding-left: 10px;
   margin-left: 10px;
   margin-top: 80px;
-  border: 1px solid black;
+  border: 2px solid black;
 }
 footer{
   background-color: dimgray;
