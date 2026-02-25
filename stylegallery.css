@@ -2,10 +2,10 @@ img{ border: solid black;
     margin: 20px;
 }
 nav{
-    margin-left: 10px;
+    margin-left: 0px;
     background-color: black;  
     padding-top: 0px;
-    padding-left: 10px;
+    padding-left: 0px;
   }
   
    a{color: white;
@@ -14,4 +14,60 @@ nav{
   }
   h1{
     margin: 20px;
+  }
+  #navbar{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    position: fixed;
+    top: 0;
+    background-color: rgb(37, 37, 37);
+  }
+  .navgnbar{
+    float: left;
+    border-right: 1px solid white;
+  }
+  .navgnbar :last-child{
+    border-right: none;
+  }
+  .navgnbar a, .dropdown{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    text-decoration: none;
+    font-size: 30px;
+  }
+  .drpdwn{
+    display: inline-block;
+  }
+  .drpdwncntnt{
+    display: none;
+    position: absolute;
+    background-color:rgb(71, 71, 71);
+    min-width: 20px;
+    z-index: 1;
+  }
+  .drpdwncntnt a{
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+  }
+  .drpdwn:hover .drpdwncntnt{
+    display: block;
+  }
+  .navgnbar:hover{
+    background-color: rgb(53, 53, 53);
+  }
+  .drpdwn:hover{
+    background-color: rgb(53, 53, 53);
+  }
+  .drpdwncntnt a:hover{
+    background-color: rgb(99, 99, 99);
+  }
+  #active {
+    background-color:rgb(0, 0, 0);
+    color:white;
   }
