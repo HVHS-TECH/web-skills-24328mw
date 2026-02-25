@@ -10,6 +10,12 @@ h1{
 body{
   background-color: lightgrey;
 }
+img{
+  display: block;
+  margin: auto;
+  width: 75%;
+  border: 2px solid black;
+}
 #navbar{
     list-style-type: none;
     margin: 0;
@@ -76,5 +82,5 @@ body{
   #container div{
     border: 2px solid black;
     padding: 5px;
-    background-color: rgb(199, 199, 199);
+    background-color: rgb(133, 133, 133);
   }
