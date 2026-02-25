@@ -8,14 +8,14 @@ nav{
     padding-left: 0px;
   }
   
-   a{color: white;
+a{color: white;
     margin: 20px;
     font-size: 30px;
   }
-  h1{
+h1{
     margin: 20px;
   }
-  #navbar{
+#navbar{
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -23,14 +23,14 @@ nav{
     top: 0;
     background-color: rgb(37, 37, 37);
   }
-  .navgnbar{
+.navgnbar{
     float: left;
     border-right: 1px solid white;
   }
-  .navgnbar :last-child{
+.navgnbar :last-child{
     border-right: none;
   }
-  .navgnbar a, .dropdown{
+.navgnbar a, .dropdown{
     display: block;
     color: white;
     text-align: center;
@@ -38,36 +38,36 @@ nav{
     text-decoration: none;
     font-size: 30px;
   }
-  .drpdwn{
+.drpdwn{
     display: inline-block;
   }
-  .drpdwncntnt{
+.drpdwncntnt{
     display: none;
     position: absolute;
     background-color:rgb(71, 71, 71);
     min-width: 20px;
     z-index: 1;
   }
-  .drpdwncntnt a{
+.drpdwncntnt a{
     color: white;
     padding: 10px 20px;
     text-decoration: none;
     display: block;
     text-align: left;
   }
-  .drpdwn:hover .drpdwncntnt{
+.drpdwn:hover .drpdwncntnt{
     display: block;
   }
-  .navgnbar:hover{
+.navgnbar:hover{
     background-color: rgb(53, 53, 53);
   }
-  .drpdwn:hover{
+.drpdwn:hover{
     background-color: rgb(53, 53, 53);
   }
-  .drpdwncntnt a:hover{
+.drpdwncntnt a:hover{
     background-color: rgb(99, 99, 99);
   }
-  #active {
+#active {
     background-color:rgb(0, 0, 0);
     color:white;
   }
